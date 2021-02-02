@@ -7,7 +7,8 @@ import java.sql.SQLOutput;
  */
 public class MyTest {
     public static void main(String[] args) {
-        System.out.println("这是我的第二个JAVA项目");
+        System.out.println("这是我的第三个JAVA项目");
         System.out.println(345);
+        System.out.println(666);
     }
 }
